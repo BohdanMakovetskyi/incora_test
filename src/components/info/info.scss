@@ -1,0 +1,22 @@
+.info {
+  display: block;
+  height: 100px;
+  width: 100px;
+  margin-top: 11%;
+  margin-left: 14%;
+
+  &__title {
+    color: rgb(172, 170, 170);
+    margin-left: 6px;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+
+  &__money {
+    color: rgb(33, 126, 231);
+    font-weight: 500;
+    font-size: 32px;
+    cursor: pointer;
+  }
+}

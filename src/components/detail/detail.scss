@@ -1,0 +1,31 @@
+.detail {
+  display: block;
+  height: 100px;
+  width: 130px;
+  margin-left: 14%;
+
+  &__title {
+    color: rgb(172, 170, 170);
+    margin-left: 6px;
+    font-size: 18px;
+    font-weight: 400;
+    letter-spacing: 2px;
+  }
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    margin-left: -50px;
+    line-height: 7px;
+    cursor: pointer;
+
+    &__name {
+      color: rgb(121, 119, 119);
+    }
+
+    &__money {
+      margin-top: 18px;
+      color: rgb(33, 126, 231);
+    }
+  }
+}
