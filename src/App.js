@@ -7,7 +7,9 @@ const App = () => {
   return (
     <>
       <div className="background" />
-      <Total />
+      <div className="total">
+        <Total />
+      </div>
     </>
   );
 };

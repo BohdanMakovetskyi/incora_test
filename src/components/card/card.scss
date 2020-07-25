@@ -3,24 +3,15 @@ $input-color: rgb(94, 166, 248);
 $title-color: rgb(226, 219, 219);
 
 .card {
-  position: fixed;
-  z-index: 1;
-  top: 80px;
-  right: -70px;
   width: 500px;
   height: 350px;
   border-radius: 10px;
   background: $card-color;
   box-shadow: 0 0 60px rgba(0, 0, 0, 0.52);
   padding-left: 40px;
-
-  @media screen and (max-width: 968px) {
-    width: 400px;
-  }
-
-  @media screen and (max-width: 848px) {
-    width: 300px;
-  }
+  position: absolute;
+  top: 70px;
+  right: -45px;
 
   &__head {
     display: flex;

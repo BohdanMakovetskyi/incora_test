@@ -5,6 +5,9 @@ body {
 }
 
 .background {
+  @media screen and (max-width: 971px) {
+    display: none;
+  }
   position: relative;
   height: 100vh;
   padding: 0;
