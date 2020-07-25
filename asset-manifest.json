@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/incora_test/static/css/main.679d6ec1.chunk.css",
+    "main.js": "/incora_test/static/js/main.8c9339bb.chunk.js",
+    "main.js.map": "/incora_test/static/js/main.8c9339bb.chunk.js.map",
+    "runtime-main.js": "/incora_test/static/js/runtime-main.22522a73.js",
+    "runtime-main.js.map": "/incora_test/static/js/runtime-main.22522a73.js.map",
+    "static/css/2.25ff2e5b.chunk.css": "/incora_test/static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.ac5a0f47.chunk.js": "/incora_test/static/js/2.ac5a0f47.chunk.js",
+    "static/js/2.ac5a0f47.chunk.js.map": "/incora_test/static/js/2.ac5a0f47.chunk.js.map",
+    "index.html": "/incora_test/index.html",
+    "precache-manifest.65f9e8cac9b0ef30b91d782f9d8d9436.js": "/incora_test/precache-manifest.65f9e8cac9b0ef30b91d782f9d8d9436.js",
+    "service-worker.js": "/incora_test/service-worker.js",
+    "static/css/2.25ff2e5b.chunk.css.map": "/incora_test/static/css/2.25ff2e5b.chunk.css.map",
+    "static/css/main.679d6ec1.chunk.css.map": "/incora_test/static/css/main.679d6ec1.chunk.css.map",
+    "static/js/2.ac5a0f47.chunk.js.LICENSE.txt": "/incora_test/static/js/2.ac5a0f47.chunk.js.LICENSE.txt",
+    "static/media/visa.png": "/incora_test/static/media/visa.9ec8ee62.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22522a73.js",
+    "static/css/2.25ff2e5b.chunk.css",
+    "static/js/2.ac5a0f47.chunk.js",
+    "static/css/main.679d6ec1.chunk.css",
+    "static/js/main.8c9339bb.chunk.js"
+  ]
+}
